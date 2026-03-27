@@ -1,5 +1,4 @@
-![[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.YhO8L86-KM9SuGSsdrpzDgHaEK%3Fpid%3DApi&f=1&ipt=65b8f9d3f25ec2c3329830caf63a68b952ad36d699986930ff7998de899b32b1&ipo=images]]
-
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.YhO8L86-KM9SuGSsdrpzDgHaEK%3Fpid%3DApi&f=1&ipt=65b8f9d3f25ec2c3329830caf63a68b952ad36d699986930ff7998de899b32b1&ipo=images)
 ##### الكفاءة و القطعة الفنية الشبه منسية 
 في الاونة الأخيرة  لاحضةأن  كل مجتمع التقنية اصبح يتذكر و يناقش واحد من اعضم
 المشاريع التقنية التي غيرت شكل التقنية الى الابد وهي بكل تأكيد نواة لينكس بداية القصة كانت ك مشروع شخصي من طالب في هلسنكي بكل تأكيد هوا لينوس تورفالد  لبناء النواة الخاصة به التي بدأت بسؤال(هل الامر صعب والى اي درجة؟ ) وانتهت بإجابة غيرة عالم التقنية الى الابد 
